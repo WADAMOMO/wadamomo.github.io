@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "jan 3 post"
+title: "omg it works"
 date: 2018-01-03
 ---
 
-leaps and bounds today. leaps. and bounds. 
-trying to understand how git works.
-marginally succeeding.
+Leaps and bounds today. Leaps. And bounds. 
+Marginally beginning to understand how git works and updating this guide and using git push to update the blog. This feels like good beginner practice.
 
-just continue working on katas and do the p1xt guide
+For now just doing some katas and beginning the p1xt guide.

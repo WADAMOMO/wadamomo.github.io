@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "William Adamowicz launches—cannot believe this—a blog"
+title: "Site Launch"
 date: 2017-12-31
 ---
 
