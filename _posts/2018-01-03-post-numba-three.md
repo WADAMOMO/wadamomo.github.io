@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "jan 3 post"
-date: 2018-01-01
+date: 2018-01-03
 ---
 
 leaps and bounds today. leaps. and bounds. 
