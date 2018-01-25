@@ -8,13 +8,13 @@ So it's actually January 24th today but I realized that no one will ever read al
 
 
 Things I did:
--Made this blog using this Jekyll tutorial here <br>
--Created an SSH key to avoid having to type the password over and over with Github help pages here <br>
--Installed homebrew (here) to help with package installations and updates for example when I got Object.values is not a function because I didn't have the new version of node installed <br>
--Completed Gordon Zhu's excellent Javascript Tutorial here <br>
--Got through #### katas on Codewars and leveled up to 5 kyu <br>
--Completed #### weeks of CS50 <br>
--Completed FCC front end <br>
+-Made this blog using this Jekyll tutorial here
+-Created an SSH key to avoid having to type the password over and over with Github help pages here
+-Installed homebrew (here) to help with package installations and updates for example when I got Object.values is not a function because I didn't have the new version of node installed
+-Completed Gordon Zhu's excellent Javascript Tutorial here
+-Got through #### katas on Codewars and leveled up to 5 kyu
+-Completed #### weeks of CS50
+-Completed FCC front end
 
 This might seem like a lot. In fairness I had already done Colt Steele's bootcamp, done 5-6 courses on CodeAcademy, and done all the HTML, CSS, and JS stuff on FreeCodeCamp, so all I had left was the Algorithm Scripting and the Projects for the Front End. 
 
@@ -24,7 +24,8 @@ I think next month I will tackle WesBos's course, and in fact I've already start
 
 
 Things I did unrelated to code:
--Started developing a concept for an 'AirBnB of food' — which has been much attempted, but so far, to no avail <br>
--Started journaling. Yes, a daily log of my activities. Yes, like some kind of sociopath. But also, you know what, when you've had intense periods of depression you do whatever the fuck it takes so get off my back. <br>
--GOT THE PICTURE TAKEN - be a person - join the world! <br>
--Rewatched this interview and decided to take James Murphy's advice and 'engage culture' instead of being a jaded doiche <br> 
+-Started developing a concept for an 'AirBnB of food' — which has been much attempted, but so far, to no avail
+-Cooked a lot of things
+-Started journaling a daily log of my activities, yes, like some kind of sociopath, but also, hey you know what when you've had intense periods of depression you do whatever the fuck it takes so get off my back
+-GOT THE PICTURE TAKEN - be a person - join the world
+-rewatched this interview and decided to take James Murphy's advice and 'engage culture' instead of being a jaded dick 
