@@ -8,7 +8,7 @@ So it's actually January 24th today but I realized that no one will ever read al
 
 
 Things I did:
--Made this blog using this Jekyll tutorial here
+-Made this blog using this Jekyll tutorial here <br>
 -Created an SSH key to avoid having to type the password over and over with Github help pages here
 -Installed homebrew (here) to help with package installations and updates for example when I got Object.values is not a function because I didn't have the new version of node installed
 -Completed Gordon Zhu's excellent Javascript Tutorial here
