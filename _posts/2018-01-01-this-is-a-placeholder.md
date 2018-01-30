@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I can't figure this out"
+title: "technical difficulties"
 date: 2018-01-01
 ---
 
