@@ -9,17 +9,29 @@ Welcome to my first monthly summary. It is currently 10:40 PM on the 31st and I 
 
 Things I did:
 -Made this Github pages blog using <a>this Jekyll tutorial</a>
--Created an SSH key to avoid having to type the password over when pushing code to Github
+<br>
+-Created an SSH key to avoid having to type my username and password when pushing code to Github, for example when I push the code for these daily blog posts, instructions can be found <a href="">here</a>
+<br>
 -Installed homebrew to help with package installations and updates, which helped when I got 'Object.values is not a function' because I didn't have the new version of node installed, for example
+<br>
 -Completed Gordon Zhu's excellent Javascript Tutorial and will go on to do his premium content, if only to donate 40 dollars and contribute to his progress
+<br>
 -Leveled up to 5 kyu on Codewars
+<br>
 -Completed 3 weeks of CS50
--Completed Module 1 of Hack Reactor Prep
+<br>
+-Completed all the toy problems in Module 1 of Hack Reactor Prep
+<br>
+-Created the FreeCodeCamp Kyoto Page as well as a Meetup and people say they're going to attend but they keep bailing T_T ...I have two people marked attending for Monday we'll see if it finally happens
+
 
 
 Things I did unrelated to code:
+
 -Started developing a concept for an 'AirBnB of food' — a concept that has been much attempted, but so far I have yet to see something real come to life
+
 -Gave a lecture on the difference between American and Japanese culture at Doshisha University
+
 -Started journaling a daily log of my activities, yes, like some kind of sociopath, but also, hey you know what when you've had intense periods of depression you do whatever the fuck it takes so get off my back
 
 
