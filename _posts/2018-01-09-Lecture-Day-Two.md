@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lecture Day 2"
+title: "Pikachu Remix"
 date: 2018-01-09
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Still not understanding"
+title: "Still Confused"
 date: 2018-01-02
 ---
 

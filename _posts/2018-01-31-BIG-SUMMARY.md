@@ -4,7 +4,7 @@ title: "BLOG POST [1] — First Month Summary"
 date: 2018-01-31
 ---
 
-Welcome to my first monthly summary. It is currently 10:40 PM on the 31st and I have an interview with Thinkful in the morning at 7:30 Japan time, so I'll try to keep this short. Here are the things I did this month:
+Welcome to my first monthly summary. It is currently 10:40 PM on the 31st and I have an interview with Thinkful in the morning at 7:30 Japan time, so I'll try to keep this short. The main takeaway for the month is probably from Gordon Zhu's course (which is why I've put it up top) when he says that the most important thing is to focus on your practice. Maybe that's not verbatim but the point is, it was all about not jumping around and just sticking with something if you started it. That being said I think you also need to be open to flexibility if you end up starting something that feels ridiculous. So on the one hand you want to make sure that you don't work on something that feels like a waste of time for hours and hours, on the other hand you want to make sure you just stick with one resource if you've started working on it. Here are the things I did this month:
 <br>
 <br>
 <br>
@@ -28,4 +28,4 @@ Code-related things: <br>
 <br>
 The plan for next month: <br>
 -Wes Bos's 30 day course <br>
--Finishing FreeCodeCamp Front End
+-Finishing FreeCodeCamp Front End <br>

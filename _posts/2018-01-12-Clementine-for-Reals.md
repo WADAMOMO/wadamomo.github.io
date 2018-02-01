@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CS50 Week 1"
+title: "Credit Card"
 date: 2018-01-12
 ---
 
