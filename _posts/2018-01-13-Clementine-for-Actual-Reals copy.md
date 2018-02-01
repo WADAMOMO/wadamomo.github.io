@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Clementine for real"
+title: "Array Idiocy"
 date: 2018-01-13
 ---
 

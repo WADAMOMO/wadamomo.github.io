@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BLOG POST #1 — First Month Summary"
+title: "BLOG POST [1] — First Month Summary"
 date: 2018-01-31
 ---
 
