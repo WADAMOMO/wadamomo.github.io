@@ -1,20 +1,22 @@
 ---
 layout: post
-title: "BLOG POST #1 — FIRST MONTH SUMMARY"
+title: "BLOG POST #1 — First Month Summary"
 date: 2018-01-31
 ---
 
 Welcome to my first monthly summary. It is currently 10:40 PM on the 31st and I have an interview with Thinkful in the morning at 7:30 Japan time, so I'll try to keep this short. Here are the things I did this month:
-
-
-Things I did: <br>
--Made this Github pages blog using <a>this Jekyll tutorial</a>
+<br>
+<br>
+<br>
+Code-related things: <br>
+-Completed Gordon Zhu's excellent <a href="watchandcode.com">Javascript Tutorial<a/> and will go on to do his premium content, if only to donate 40 dollars and contribute to his cause
+<br>
+-Went against all my better instincts and created a FreeCodeCamp Kyoto Group and a Meetup to—sorry, just let me vomit in my mouth quickly—be part of a community <br>
+-Made this Github pages blog using <a>this Jekyll tutorial</a> to catalog my daily progress throughout this—deep breath—journey
 <br>
 -Created an SSH key to avoid having to type my username and password when pushing code to Github, for example when I push the code for these daily blog posts, instructions can be found <a href="">here</a>
 <br>
 -Installed homebrew to help with package installations and updates, which helped when I got 'Object.values is not a function' because I didn't have the new version of node installed, for example
-<br>
--Completed Gordon Zhu's excellent Javascript Tutorial and will go on to do his premium content, if only to donate 40 dollars and contribute to his progress
 <br>
 -Leveled up to 5 kyu on Codewars
 <br>
@@ -22,21 +24,8 @@ Things I did: <br>
 <br>
 -Completed all the toy problems in Module 1 of Hack Reactor Prep
 <br>
--Created the FreeCodeCamp Kyoto Page as well as a Meetup and people say they're going to attend but they keep bailing T_T ...I have two people marked attending for Monday we'll see if it finally happens
-
 <br>
 <br>
-<br>
-
-Things I did unrelated to code:
-
--Started developing a concept for an 'AirBnB of food' — a concept that has been much attempted, but so far I have yet to see something real come to life
--Gave a lecture on the difference between American and Japanese culture at Doshisha University
--Started journaling a daily log of my activities, yes, like some kind of sociopath, but also, hey you know what when you've had intense periods of depression you do whatever the fuck it takes so get off my back
-<br>
-<br>
-<br>
-
-The plan for next month:
--Wes Bos's 30 day course
+The plan for next month: <br>
+-Wes Bos's 30 day course <br>
 -Finishing FreeCodeCamp Front End
