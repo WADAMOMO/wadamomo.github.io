@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BLOG POST [0] — Site Launch ***********************************"
+title: "***** BLOG POST [0] — Site Launch *****"
 date: 2017-12-31
 ---
 
