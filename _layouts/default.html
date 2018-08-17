@@ -178,6 +178,11 @@
 					clear: _clear
 				}
 			}
+
+			console.log('getting context')
+			var confettiSettings = { target: 'my-canvas' };
+			var confetti = new window.ConfettiGenerator(confettiSettings);
+			confetti.render();
 		})()
 	</script>
 	<!-- link to main stylesheet -->
@@ -213,12 +218,7 @@
 	</footer>
 	<script>
 			(function () {
-				console.log('hello from index');
-
-				var confettiSettings = { target: 'my-canvas' };
-				var confetti = new window.ConfettiGenerator(confettiSettings);
-				confetti.render();
-
+				console.log('hello from body')
 			})()
 	</script>
 </body>
