@@ -4,7 +4,7 @@
 <head>
 	<title>{{ page.title }}</title>
 	<script>
-		(function () {
+		window.onload = function () {
 			window.ConfettiGenerator = function (params) {
 				//////////////
 				// Defaults
@@ -183,7 +183,7 @@
 			var confettiSettings = { target: 'my-canvas' };
 			var confetti = new window.ConfettiGenerator(confettiSettings);
 			confetti.render();
-		})()
+		};
 	</script>
 	<!-- link to main stylesheet -->
 	<link rel="stylesheet" type="text/css" href="/css/main.css">
@@ -205,6 +205,8 @@
 		{{ content }}
 
 	</div>
+	<canvas id="my-canvas"></canvas>
+
 	<!-- /.container -->
 	<footer>
 		<ul>
@@ -221,6 +223,7 @@
 				console.log('hello from body')
 			})()
 	</script>
+	
 </body>
 
 </html>
